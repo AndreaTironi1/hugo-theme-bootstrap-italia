@@ -13,7 +13,7 @@ Follow these steps to have a working Hugo site
 
   `site_name/themes/hugo-theme-bootstrap-italia`
   
-  `rename site_name/themes/hugo-theme-bootstrap-italia-master site_name/themes/hugo-theme-bootstrap-italia'
+  `rename site_name/themes/hugo-theme-bootstrap-italia-master site_name/themes/hugo-theme-bootstrap-italia`
   
   or
   `cd site_name`
