@@ -12,10 +12,14 @@ Follow these steps to have a working Hugo site
 * Add the content of this repo within
 
   `site_name/themes/hugo-theme-bootstrap-italia`
+  
   `rename site_name/themes/hugo-theme-bootstrap-italia-master site_name/themes/hugo-theme-bootstrap-italia'
+  
   or
   `cd site_name`
+  
   `git init`
+  
   `git submodule add https://github.com/francescozaia/hugo-theme-bootstrap-italia themes/hugo-theme-bootstrap-italia`
   
 * Add this line to your `site_name/config.toml` file:
